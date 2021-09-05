@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:github_search/constants.dart';
 import 'package:github_search/models/repositorie.dart';
 
-import '../../repo_web_view.dart';
+import '../../web_view/repo_web_view.dart';
 
 class RepoInfoCard extends StatelessWidget {
   final Repositorie repositorie;
